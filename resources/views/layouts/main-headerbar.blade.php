@@ -3,13 +3,8 @@
 
 <div class="d-flex align-items-center justify-content-between">
   <a href="/" class="logo d-flex align-items-center">
-<<<<<<< HEAD
-    {{-- <img class="" src="assets/img/pngwing.com.png" alt=""> --}}
-    <span class="d-none d-lg-block">Delivery Service</span>
-=======
     <img class="" src="assets/img/pngwing.com.png" alt="">
     <span class="d-none d-lg-block">Delivering Service</span>
->>>>>>> 4cae4487861c03dc8dbd591715f89779c13456f4
   </a>
   <i class="bi bi-list toggle-sidebar-btn"></i>
 </div><!-- End Logo -->
