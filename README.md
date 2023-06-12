@@ -1,5 +1,3 @@
-I apologize for the confusion earlier. The previous README file was also written in Markdown language, but it did not display properly due to a formatting issue. Here's the updated README file in Markdown language:
-
 # Delivery Handling Service
 
 The Delivery Handling Service is a project that enables users to manage deliveries efficiently. The primary purpose of this project is to provide an easy-to-use and reliable delivery handling system for businesses.
@@ -60,4 +58,3 @@ To run the Delivery Handling Service, you will need the following:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
 
-Please let me know if you need any further assistance or have any questions!
