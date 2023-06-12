@@ -20,14 +20,14 @@ To use the Delivery Handling Service, follow these steps:
 
    ````
    git clone https://github.com/Kyrillos-Gaber/DeliveringServiceApi
-   ```
+   
 
 2. Install the necessary dependencies by running the following command:
 
    ````
    composer install
    npm install
-   ```
+   
 
 3. Create a new MySQL database and update the `.env` file with your database credentials.
 
@@ -35,13 +35,13 @@ To use the Delivery Handling Service, follow these steps:
 
    ````
    php artisan migrate
-   ```
+   
 
 5. Start the server by running the following command:
 
    ````
    php artisan serve
-   ```
+   
 
 6. Visit `http://localhost:8000` in your web browser to access the application.
 
