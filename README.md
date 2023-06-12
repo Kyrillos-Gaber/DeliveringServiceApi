@@ -19,7 +19,7 @@ To use the Delivery Handling Service, follow these steps:
 1. Clone the repository by running the following command:
 
    ````
-   git clone https://github.com/your-username/delivery-handling-service.git
+   git clone https://github.com/Kyrillos-Gaber/DeliveringServiceApi
    ```
 
 2. Install the necessary dependencies by running the following command:
